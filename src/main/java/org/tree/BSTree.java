@@ -7,8 +7,7 @@ package org.tree;
  * 二叉搜索树
  */
 public class BSTree {
-    BSTree left;
-    BSTree right;
+    BSTree left,right;
     int val;
 
     /**
